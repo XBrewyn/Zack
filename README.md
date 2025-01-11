@@ -118,4 +118,3 @@ This project is licensed under the MIT License.
 For any questions, feel free to reach out to the development: <br /> <br />
 `Email:` xbrewyn@gmail.com <br />
 `WhatsApp:` +1 (829) 683-2226
-# Zack
