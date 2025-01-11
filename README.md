@@ -1,10 +1,11 @@
 
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/eedaa923-7ea9-4305-9b88-d68691129bfb" />
+  <img width="300" src="https://github.com/user-attachments/assets/8ae7b95b-ca76-4a2e-a338-96890c93d9ab" />
 </p>
 <p align="center">
  <img width="150" src="https://img.shields.io/badge/npm%20package->=v21.6.2-green" />
 </p>
+
 
 ## Description 
 Zack is an application that allows you to create schedules and send emails based on a specified date and time. With this service, you can easily manage schedules and automate email notifications at the right moment.
